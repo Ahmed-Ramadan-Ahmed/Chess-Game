@@ -42,12 +42,12 @@ Or open `Chess Game.sln` in Visual Studio and press F5.
 A short 2×2 gallery that illustrates a final checkmate sequence. Replace the placeholder images in `assets/screenshots/` with your real screenshots (same filenames) to update the gallery.
 
 <p align="center">
-  <img src="assets/screenshots/1.png" alt="Position 1" width="300" />
+  <img src="Chess Game/assets/screenshots/1.png" alt="Position 1" width="300" />
    <br/>
-  <img src="assets/screenshots/2.png" alt="Position 2" width="300" />
+  <img src="Chess Game/assets/screenshots/2.png" alt="Position 2" width="300" />
   <br/>
-  <img src="assets/screenshots/3.png" alt="Position 3" width="300" />
+  <img src="Chess Game/assets/screenshots/3.png" alt="Position 3" width="300" />
    <br/>
-  <img src="assets/screenshots/4.png" alt="Final checkmate" width="300" />
+  <img src="Chess Game/assets/screenshots/4.png" alt="Final checkmate" width="300" />
 </p>
 
